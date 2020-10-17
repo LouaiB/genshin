@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/genshin/static/css/main.fdb57a04.chunk.css",
+    "main.js": "/genshin/static/js/main.a9fde67f.chunk.js",
+    "main.js.map": "/genshin/static/js/main.a9fde67f.chunk.js.map",
+    "runtime-main.js": "/genshin/static/js/runtime-main.fa725f99.js",
+    "runtime-main.js.map": "/genshin/static/js/runtime-main.fa725f99.js.map",
+    "static/js/2.79b271e7.chunk.js": "/genshin/static/js/2.79b271e7.chunk.js",
+    "static/js/2.79b271e7.chunk.js.map": "/genshin/static/js/2.79b271e7.chunk.js.map",
+    "index.html": "/genshin/index.html",
+    "precache-manifest.fda18ce975805a16dee3892aa4816532.js": "/genshin/precache-manifest.fda18ce975805a16dee3892aa4816532.js",
+    "service-worker.js": "/genshin/service-worker.js",
+    "static/css/main.fdb57a04.chunk.css.map": "/genshin/static/css/main.fdb57a04.chunk.css.map",
+    "static/js/2.79b271e7.chunk.js.LICENSE.txt": "/genshin/static/js/2.79b271e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa725f99.js",
+    "static/js/2.79b271e7.chunk.js",
+    "static/css/main.fdb57a04.chunk.css",
+    "static/js/main.a9fde67f.chunk.js"
+  ]
+}
